@@ -1,0 +1,310 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Defines_x002B_Game id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<gameState>0</gameState>
+<level>3</level>
+<checktime>true</checktime>
+<thinkingtime>1</thinkingtime>
+<side_interface>1</side_interface>
+<xside_interface>0</xside_interface>
+<hdp_interface>12</hdp_interface>
+<piece_interface href="#ref-3"/>
+<color_interface href="#ref-4"/>
+<h_dat href="#ref-5"/>
+</a1:Defines_x002B_Game>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:anyType[90]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">5</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">6</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">5</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-4" SOAP-ENC:arrayType="xsd:anyType[90]">
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">7</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:int">1</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-5" SOAP-ENC:arrayType="xsd:anyType[12]">
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+<item href="#ref-9"/>
+<item href="#ref-10"/>
+<item href="#ref-11"/>
+<item href="#ref-12"/>
+<item href="#ref-13"/>
+<item href="#ref-14"/>
+<item href="#ref-15"/>
+<item href="#ref-16"/>
+<item href="#ref-17"/>
+</SOAP-ENC:Array>
+<a1:Defines_x002B_HIST_REC id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-18"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-19"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-20"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-21"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-22"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-23"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-24"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-25"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-26"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-27"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-28"/>
+<_capture>7</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_HIST_REC id="ref-17" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_mh href="#ref-29"/>
+<_capture>0</_capture>
+</a1:Defines_x002B_HIST_REC>
+<a1:Defines_x002B_MOVE id="ref-18" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>64</_from>
+<_dest>67</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-19" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>0</_from>
+<_dest>9</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-20" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>82</_from>
+<_dest>65</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-21" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>1</_from>
+<_dest>20</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-22" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>58</_from>
+<_dest>49</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-23" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>2</_from>
+<_dest>22</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-24" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>60</_from>
+<_dest>51</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-25" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>3</_from>
+<_dest>13</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-26" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>70</_from>
+<_dest>69</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-27" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>7</_from>
+<_dest>24</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-28" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>51</_from>
+<_dest>42</_dest>
+</a1:Defines_x002B_MOVE>
+<a1:Defines_x002B_MOVE id="ref-29" xmlns:a1="http://schemas.microsoft.com/clr/assem/mlchinesechess%2C%20Version%3D0.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_from>22</_from>
+<_dest>42</_dest>
+</a1:Defines_x002B_MOVE>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
